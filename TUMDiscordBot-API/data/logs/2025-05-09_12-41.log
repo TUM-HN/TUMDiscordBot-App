@@ -1,0 +1,34 @@
+2025-05-09 12:41:08,682 - discord_bot - INFO - Bot starting up...
+2025-05-09 12:41:13,427 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:13] "GET / HTTP/1.1" 200 -
+2025-05-09 12:41:13,452 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:13] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:41:13,463 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:13] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 400 -
+2025-05-09 12:41:13,688 - discord_bot - INFO - Found Admin role with ID: 1315978990560743434
+2025-05-09 12:41:13,689 - discord_bot - INFO - MockUser initialized with Admin role ID: 1315978990560743434
+2025-05-09 12:41:13,689 - discord_bot - INFO - Mock context initialized with guild: Zorzi's server
+2025-05-09 12:41:13,689 - discord_bot - INFO - Mock context initialized with author: Master M
+2025-05-09 12:41:13,689 - discord_bot - INFO - Bot started successfully in development mode
+2025-05-09 12:41:13,689 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:13] "POST /api/start-bot?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:41:18,453 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:18] "GET / HTTP/1.1" 200 -
+2025-05-09 12:41:18,461 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:18] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:41:18,479 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:18] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:41:23,428 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:23] "GET / HTTP/1.1" 200 -
+2025-05-09 12:41:23,443 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:23] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:41:23,452 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:23] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:41:28,432 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:28] "GET / HTTP/1.1" 200 -
+2025-05-09 12:41:28,450 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:28] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:41:28,459 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:28] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:41:33,427 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:33] "GET / HTTP/1.1" 200 -
+2025-05-09 12:41:33,447 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:33] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:41:33,453 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:33] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:41:38,434 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:38] "GET / HTTP/1.1" 200 -
+2025-05-09 12:41:38,451 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:38] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:41:38,459 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:38] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:41:43,433 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:43] "GET / HTTP/1.1" 200 -
+2025-05-09 12:41:43,452 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:43] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:41:43,463 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:43] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:41:48,426 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:48] "GET / HTTP/1.1" 200 -
+2025-05-09 12:41:48,438 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:48] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:41:48,447 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:48] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:41:53,448 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:53] "GET / HTTP/1.1" 200 -
+2025-05-09 12:41:53,457 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:53] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:41:53,464 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:41:53] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -

@@ -1,0 +1,33 @@
+2025-05-09 00:52:20,080 - discord_bot - INFO - Bot starting up...
+2025-05-09 00:52:20,081 - discord_bot - INFO - Bot module reloaded successfully
+2025-05-09 00:52:20,082 - discord_bot - ERROR - Bot failed to start: There is no current event loop in thread 'Thread-3 (bot_thread_with_error_handling)'.
+2025-05-09 00:52:21,187 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:52:21] "GET / HTTP/1.1" 200 -
+2025-05-09 00:52:21,201 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:52:21] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 00:52:21,209 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:52:21] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 00:52:21,673 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:52:21] "GET / HTTP/1.1" 200 -
+2025-05-09 00:52:21,685 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:52:21] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 00:52:21,694 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:52:21] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 00:52:25,087 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:52:25] "[35m[1mPOST /api/start-bot?api_key=025002 HTTP/1.1[0m" 500 -
+2025-05-09 00:52:26,189 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:52:26] "GET / HTTP/1.1" 200 -
+2025-05-09 00:52:26,205 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:52:26] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 00:52:26,218 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:52:26] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 00:52:26,681 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:52:26] "GET / HTTP/1.1" 200 -
+2025-05-09 00:52:26,709 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:52:26] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 00:52:26,731 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:52:26] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 00:52:29,326 - discord_bot - INFO - Bot starting up...
+2025-05-09 00:52:29,326 - discord_bot - INFO - Bot module reloaded successfully
+2025-05-09 00:52:29,327 - discord_bot - ERROR - Bot failed to start: There is no current event loop in thread 'Thread-17 (bot_thread_with_error_handling)'.
+2025-05-09 00:52:31,188 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:52:31] "GET / HTTP/1.1" 200 -
+2025-05-09 00:52:31,206 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:52:31] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 00:52:31,220 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:52:31] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 00:52:31,673 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:52:31] "GET / HTTP/1.1" 200 -
+2025-05-09 00:52:31,687 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:52:31] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 00:52:31,698 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:52:31] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 00:52:34,330 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:52:34] "[35m[1mPOST /api/start-bot?api_key=025002 HTTP/1.1[0m" 500 -
+2025-05-09 00:52:36,180 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:52:36] "GET / HTTP/1.1" 200 -
+2025-05-09 00:52:36,200 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:52:36] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 00:52:36,209 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:52:36] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 00:52:36,683 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:52:36] "GET / HTTP/1.1" 200 -
+2025-05-09 00:52:36,711 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:52:36] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 00:52:36,732 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:52:36] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 00:52:41,089 - werkzeug - INFO -  * Detected change in '/Users/campusheilbronn/PycharmProjects/Bachelor Thesis/Discord-Bot-Scripts/bot/discord_bot.py', reloading

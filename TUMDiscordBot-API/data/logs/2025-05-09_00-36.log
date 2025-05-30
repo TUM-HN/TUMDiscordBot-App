@@ -1,0 +1,63 @@
+2025-05-09 00:36:36,769 - discord_bot - INFO - Bot starting up...
+2025-05-09 00:36:38,493 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:38] "[31m[1mGET /api/members?api_key=025002 HTTP/1.1[0m" 400 -
+2025-05-09 00:36:38,494 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:38] "GET /api/data/attendance?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 00:36:38,531 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:38] "GET /api/data/attendance?api_key=025002&file=G1_2025-05-09_00-35.csv HTTP/1.1" 200 -
+2025-05-09 00:36:38,532 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:38] "GET /api/data/attendance?api_key=025002&file=G1_2025-05-09_00-32.csv HTTP/1.1" 200 -
+2025-05-09 00:36:41,200 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:41] "GET / HTTP/1.1" 200 -
+2025-05-09 00:36:41,212 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:41] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 00:36:41,219 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:41] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 400 -
+2025-05-09 00:36:41,444 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:41] "[31m[1mGET /api/members?api_key=025002 HTTP/1.1[0m" 400 -
+2025-05-09 00:36:41,447 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:41] "GET /api/data/attendance?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 00:36:41,484 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:41] "GET /api/data/attendance?api_key=025002&file=G1_2025-05-09_00-32.csv HTTP/1.1" 200 -
+2025-05-09 00:36:41,485 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:41] "GET /api/data/attendance?api_key=025002&file=G1_2025-05-09_00-35.csv HTTP/1.1" 200 -
+2025-05-09 00:36:41,697 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:41] "GET / HTTP/1.1" 200 -
+2025-05-09 00:36:41,710 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:41] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 00:36:41,720 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:41] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 400 -
+2025-05-09 00:36:41,775 - discord_bot - ERROR - Critical error initializing mock context: Bot not connected to any guilds
+2025-05-09 00:36:41,775 - discord_bot - ERROR - Stopping bot due to critical initialization error
+2025-05-09 00:36:41,776 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:41] "[35m[1mPOST /api/start-bot?api_key=025002 HTTP/1.1[0m" 500 -
+2025-05-09 00:36:42,219 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:42] "GET /api/data/attendance?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 00:36:42,219 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:42] "[31m[1mGET /api/members?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 00:36:42,255 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:42] "GET /api/data/attendance?api_key=025002&file=G1_2025-05-09_00-32.csv HTTP/1.1" 200 -
+2025-05-09 00:36:42,255 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:42] "GET /api/data/attendance?api_key=025002&file=G1_2025-05-09_00-35.csv HTTP/1.1" 200 -
+2025-05-09 00:36:44,364 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:44] "GET /api/data/attendance?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 00:36:44,364 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:44] "[31m[1mGET /api/members?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 00:36:44,399 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:44] "GET /api/data/attendance?api_key=025002&file=G1_2025-05-09_00-35.csv HTTP/1.1" 200 -
+2025-05-09 00:36:44,400 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:44] "GET /api/data/attendance?api_key=025002&file=G1_2025-05-09_00-32.csv HTTP/1.1" 200 -
+2025-05-09 00:36:45,545 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:45] "[31m[1mGET /api/members?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 00:36:45,547 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:45] "GET /api/data/attendance?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 00:36:45,583 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:45] "GET /api/data/attendance?api_key=025002&file=G1_2025-05-09_00-32.csv HTTP/1.1" 200 -
+2025-05-09 00:36:45,583 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:45] "GET /api/data/attendance?api_key=025002&file=G1_2025-05-09_00-35.csv HTTP/1.1" 200 -
+2025-05-09 00:36:46,208 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:46] "GET / HTTP/1.1" 200 -
+2025-05-09 00:36:46,219 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:46] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 00:36:46,225 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:46] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 00:36:46,700 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:46] "GET / HTTP/1.1" 200 -
+2025-05-09 00:36:46,711 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:46] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 00:36:46,719 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:46] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 00:36:47,388 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:47] "GET / HTTP/1.1" 200 -
+2025-05-09 00:36:47,393 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:47] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 00:36:47,397 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:47] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 00:36:48,919 - discord_bot - INFO - Bot starting up...
+2025-05-09 00:36:51,201 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:51] "GET / HTTP/1.1" 200 -
+2025-05-09 00:36:51,209 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:51] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 00:36:51,213 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:51] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 400 -
+2025-05-09 00:36:51,706 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:51] "GET / HTTP/1.1" 200 -
+2025-05-09 00:36:51,718 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:51] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 00:36:51,722 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:51] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 400 -
+2025-05-09 00:36:53,925 - discord_bot - ERROR - Critical error initializing mock context: Bot not connected to any guilds
+2025-05-09 00:36:53,925 - discord_bot - ERROR - Stopping bot due to critical initialization error
+2025-05-09 00:36:53,926 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:53] "[35m[1mPOST /api/start-bot?api_key=025002 HTTP/1.1[0m" 500 -
+2025-05-09 00:36:55,684 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:55] "GET /api/data/attendance?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 00:36:55,686 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:55] "[31m[1mGET /api/members?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 00:36:55,713 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:55] "GET /api/data/attendance?api_key=025002&file=G1_2025-05-09_00-32.csv HTTP/1.1" 200 -
+2025-05-09 00:36:55,715 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:55] "GET /api/data/attendance?api_key=025002&file=G1_2025-05-09_00-35.csv HTTP/1.1" 200 -
+2025-05-09 00:36:56,200 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:56] "GET / HTTP/1.1" 200 -
+2025-05-09 00:36:56,210 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:56] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 00:36:56,217 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:56] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 00:36:56,707 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:56] "GET / HTTP/1.1" 200 -
+2025-05-09 00:36:56,716 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:56] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 00:36:56,725 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:56] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 00:36:56,779 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:56] "GET /api/data/attendance?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 00:36:56,781 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:56] "[31m[1mGET /api/members?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 00:36:56,819 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:56] "GET /api/data/attendance?api_key=025002&file=G1_2025-05-09_00-35.csv HTTP/1.1" 200 -
+2025-05-09 00:36:56,821 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:56] "GET /api/data/attendance?api_key=025002&file=G1_2025-05-09_00-32.csv HTTP/1.1" 200 -

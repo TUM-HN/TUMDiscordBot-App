@@ -1,0 +1,18 @@
+2025-05-09 00:57:51,996 - discord_bot - INFO - Bot starting up...
+2025-05-09 00:57:51,999 - discord_bot - ERROR - Bot failed to start: There is no current event loop in thread 'Thread-9 (bot_thread_with_error_handling)'.
+2025-05-09 00:57:56,979 - discord_bot - INFO - Bot starting up...
+2025-05-09 00:57:56,980 - discord_bot - ERROR - Bot failed to start: There is no current event loop in thread 'Thread-9 (bot_thread_with_error_handling)'.
+2025-05-09 00:58:01,179 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:58:01] "GET / HTTP/1.1" 200 -
+2025-05-09 00:58:01,196 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:58:01] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 00:58:01,203 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:58:01] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 00:58:01,680 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:58:01] "GET / HTTP/1.1" 200 -
+2025-05-09 00:58:01,702 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:58:01] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 00:58:01,721 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:58:01] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 00:58:01,986 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:58:01] "[35m[1mPOST /api/start-bot?api_key=025002 HTTP/1.1[0m" 500 -
+2025-05-09 00:58:06,181 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:58:06] "GET / HTTP/1.1" 200 -
+2025-05-09 00:58:06,192 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:58:06] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 00:58:06,201 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:58:06] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 00:58:06,677 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:58:06] "GET / HTTP/1.1" 200 -
+2025-05-09 00:58:06,701 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:58:06] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 00:58:06,715 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:58:06] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 00:58:09,520 - werkzeug - INFO -  * Detected change in '/Users/campusheilbronn/PycharmProjects/Bachelor Thesis/Discord-Bot-Scripts/bot/discord_bot.py', reloading

@@ -1,0 +1,869 @@
+2025-05-06 14:55:39,471 - discord_bot - INFO - Bot starting up...
+2025-05-06 14:55:41,345 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:41] "GET / HTTP/1.1" 200 -
+2025-05-06 14:55:41,355 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:41] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:55:41,361 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:41] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 400 -
+2025-05-06 14:55:44,477 - discord_bot - INFO - Found Admin role with ID: 1315978990560743434
+2025-05-06 14:55:44,478 - discord_bot - INFO - MockUser initialized with Admin role ID: 1315978990560743434
+2025-05-06 14:55:44,478 - discord_bot - INFO - Mock context initialized with guild: Zorzi's server
+2025-05-06 14:55:44,478 - discord_bot - INFO - Mock context initialized with author: Master M
+2025-05-06 14:55:44,478 - discord_bot - INFO - Bot started successfully in development mode
+2025-05-06 14:55:44,479 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:44] "POST /api/start-bot?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:55:46,343 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:46] "GET / HTTP/1.1" 200 -
+2025-05-06 14:55:46,355 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:46] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:55:46,365 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:46] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:55:46,764 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:46] "POST /api/stop-bot?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:55:49,780 - discord_bot - INFO - Bot starting up...
+2025-05-06 14:55:51,219 - discord.http - WARNING - We are being rate limited. Retrying in 19.96 seconds. Handled under the bucket "None:None:/applications/{application_id}/commands"
+2025-05-06 14:55:51,349 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:51] "GET / HTTP/1.1" 200 -
+2025-05-06 14:55:51,363 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:51] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:55:51,373 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:51] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 400 -
+2025-05-06 14:55:54,787 - discord_bot - INFO - Found Admin role with ID: 1315978990560743434
+2025-05-06 14:55:54,788 - discord_bot - INFO - MockUser initialized with Admin role ID: 1315978990560743434
+2025-05-06 14:55:54,788 - discord_bot - INFO - Mock context initialized with guild: Zorzi's server
+2025-05-06 14:55:54,788 - discord_bot - INFO - Mock context initialized with author: Master M
+2025-05-06 14:55:54,788 - discord_bot - INFO - Bot started successfully in development mode
+2025-05-06 14:55:54,789 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:54] "POST /api/start-bot?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:55:56,347 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:56] "GET / HTTP/1.1" 200 -
+2025-05-06 14:55:56,360 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:56] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:55:56,368 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:56] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:56:01,347 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:01] "GET / HTTP/1.1" 200 -
+2025-05-06 14:56:01,361 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:01] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:56:01,371 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:01] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:56:06,349 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:06] "GET / HTTP/1.1" 200 -
+2025-05-06 14:56:06,362 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:06] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:56:06,381 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:06] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:56:11,349 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:11] "GET / HTTP/1.1" 200 -
+2025-05-06 14:56:11,361 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:11] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:56:11,370 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:11] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:56:16,346 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:16] "GET / HTTP/1.1" 200 -
+2025-05-06 14:56:16,362 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:16] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:56:16,372 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:16] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:56:21,348 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:21] "GET / HTTP/1.1" 200 -
+2025-05-06 14:56:21,356 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:21] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:56:21,362 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:21] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:56:26,349 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:26] "GET / HTTP/1.1" 200 -
+2025-05-06 14:56:26,366 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:26] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:56:26,376 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:26] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:56:31,348 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:31] "GET / HTTP/1.1" 200 -
+2025-05-06 14:56:31,360 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:31] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:56:31,369 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:31] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:56:36,345 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:36] "GET / HTTP/1.1" 200 -
+2025-05-06 14:56:36,360 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:36] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:56:36,368 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:36] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:56:41,349 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:41] "GET / HTTP/1.1" 200 -
+2025-05-06 14:56:41,366 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:41] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:56:41,375 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:41] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:56:46,345 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:46] "GET / HTTP/1.1" 200 -
+2025-05-06 14:56:46,358 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:46] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:56:46,368 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:46] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:56:46,618 - werkzeug - ERROR - 192.168.85.215 - - [06/May/2025 14:56:46] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\xadÁÑ¹¸\x87FÂxµB£ÇUt§ëÅÕ')
+2025-05-06 14:56:46,619 - werkzeug - INFO - 192.168.85.215 - - [06/May/2025 14:56:46] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03­ÁÑ¹¸\x87FÂxµB£ÇUt§ëÅÕ[0m" 400 -
+2025-05-06 14:56:46,621 - werkzeug - ERROR - 192.168.85.215 - - [06/May/2025 14:56:46] code 400, message Bad request version ('ð\x00,\x9a\x9a\x13\x01\x13\x02\x13\x03À,À+Ì©À0À/Ì¨À')
+2025-05-06 14:56:46,622 - werkzeug - INFO - 192.168.85.215 - - [06/May/2025 14:56:46] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03õi5»\x90\x1e0\x98A\x0ef\x05úìß\x91\x8572ê@,Ï2èuÆx9ø*y §ô}Ò\x1cì\x08Ïp}\x05Ûý]|\x07W¶I\x0f\x9d\x82\x87\x91¨'\x1eôÕA\x09ð\x00,\x9a\x9a\x13\x01\x13\x02\x13\x03À,À+Ì©À0À/Ì¨À[0m" 400 -
+2025-05-06 14:56:46,623 - werkzeug - ERROR - 192.168.85.215 - - [06/May/2025 14:56:46] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00}\x01\x00\x00y\x03\x01S¿¿x|ÀY<J^]*\x9aÕ\x13k\x0eH\x9eM(\x8fzÁ(0')
+2025-05-06 14:56:46,623 - werkzeug - INFO - 192.168.85.215 - - [06/May/2025 14:56:46] "[31m[1m\x16\x03\x01\x00}\x01\x00\x00y\x03\x01S¿¿x|ÀY<J^]*\x9aÕ\x13k\x0eH\x9eM(\x8fzÁ(0\x0cØïE\x05ï\x00\x00\x14À[0m" 400 -
+2025-05-06 14:56:51,349 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:51] "GET / HTTP/1.1" 200 -
+2025-05-06 14:56:51,364 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:51] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:56:51,375 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:51] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:56:56,346 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:56] "GET / HTTP/1.1" 200 -
+2025-05-06 14:56:56,361 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:56] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:56:56,371 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:56:56] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:01,348 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:01] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:01,364 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:01] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:01,374 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:01] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:02,264 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:02] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:02,338 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:02] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:02,373 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:02] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:02,867 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:02] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:02,903 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:02] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:02,940 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:02] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:06,278 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:06] "POST /api/stop-bot?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:06,350 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:06] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:06,366 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:06] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:57:06,379 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:06] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:57:07,966 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:07] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:08,005 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:08] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:57:08,043 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:08] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:57:10,564 - discord_bot - INFO - Bot starting up...
+2025-05-06 14:57:10,567 - discord_bot - ERROR - Bot failed to start: Cannot close a running event loop
+2025-05-06 14:57:11,348 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:11] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:11,364 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:11] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:57:11,374 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:11] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:57:12,867 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:12] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:12,900 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:12] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:57:12,933 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:12] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:57:15,567 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:15] "[35m[1mPOST /api/start-bot?api_key=025002 HTTP/1.1[0m" 500 -
+2025-05-06 14:57:15,646 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:15] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:15,686 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:15] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:57:15,726 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:15] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:57:16,346 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:16] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:16,360 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:16] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:57:16,371 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:16] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:57:17,863 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:17] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:17,906 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:17] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:57:17,946 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:17] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:57:20,107 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:20] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:20,148 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:20] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:57:20,191 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:20] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:57:21,363 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:21] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:21,372 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:21] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:57:21,380 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:21] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:57:22,913 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:22] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:22,957 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:22] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:57:22,996 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:22] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:57:26,350 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:26] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:26,359 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:26] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:57:26,366 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:26] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:57:27,871 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:27] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:27,912 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:27] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:57:27,952 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:27] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:57:31,352 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:31] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:31,364 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:31] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:57:31,372 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:31] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:57:32,860 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:32] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:32,904 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:32] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:57:32,946 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:32] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:57:33,887 - discord_bot - INFO - Bot starting up...
+2025-05-06 14:57:36,348 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:36] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:36,365 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:36] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:36,376 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:36] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 400 -
+2025-05-06 14:57:37,867 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:37] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:37,908 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:37] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:37,948 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:37] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 400 -
+2025-05-06 14:57:38,892 - discord_bot - INFO - Found Admin role with ID: 1315978990560743434
+2025-05-06 14:57:38,892 - discord_bot - INFO - MockUser initialized with Admin role ID: 1315978990560743434
+2025-05-06 14:57:38,892 - discord_bot - INFO - Mock context initialized with guild: Zorzi's server
+2025-05-06 14:57:38,892 - discord_bot - INFO - Mock context initialized with author: Master M
+2025-05-06 14:57:38,892 - discord_bot - INFO - Bot started successfully in development mode
+2025-05-06 14:57:38,893 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:38] "POST /api/start-bot?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:41,350 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:41] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:41,366 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:41] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:41,381 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:41] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:41,851 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:41] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:41,864 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:41] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:41,874 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:41] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:42,869 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:42] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:42,906 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:42] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:42,944 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:42] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:46,345 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:46] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:46,361 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:46] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:46,372 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:46] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:47,898 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:47] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:47,936 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:47] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:47,973 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:47] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:51,348 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:51] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:51,365 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:51] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:51,376 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:51] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:52,916 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:52] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:52,959 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:52] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:52,998 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:52] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:56,347 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:56] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:56,361 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:56] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:56,373 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:57:56] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:57,936 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:57] "GET / HTTP/1.1" 200 -
+2025-05-06 14:57:57,975 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:57] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:57:58,012 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:57:58] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:58:01,353 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:58:01] "GET / HTTP/1.1" 200 -
+2025-05-06 14:58:01,368 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:58:01] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:58:01,379 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:58:01] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:58:02,950 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:58:02] "GET / HTTP/1.1" 200 -
+2025-05-06 14:58:02,991 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:58:02] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:58:03,027 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:58:03] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:58:06,349 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:58:06] "GET / HTTP/1.1" 200 -
+2025-05-06 14:58:06,363 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:58:06] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:58:06,375 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:58:06] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:58:07,969 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:58:07] "GET / HTTP/1.1" 200 -
+2025-05-06 14:58:08,007 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:58:08] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:58:08,048 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:58:08] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:58:09,235 - werkzeug - INFO - 192.168.85.20 - - [06/May/2025 14:58:09] "POST /api/stop-bot?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:58:11,345 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:58:11] "GET / HTTP/1.1" 200 -
+2025-05-06 14:58:11,357 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:58:11] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:58:11,368 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:58:11] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:58:16,348 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:58:16] "GET / HTTP/1.1" 200 -
+2025-05-06 14:58:16,363 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:58:16] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:58:16,374 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:58:16] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:58:21,343 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:58:21] "GET / HTTP/1.1" 200 -
+2025-05-06 14:58:21,359 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:58:21] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:58:21,370 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:58:21] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:58:51,797 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:58:51] "GET / HTTP/1.1" 200 -
+2025-05-06 14:58:51,815 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:58:51] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:58:51,825 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:58:51] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:58:56,797 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:58:56] "GET / HTTP/1.1" 200 -
+2025-05-06 14:58:56,810 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:58:56] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:58:56,818 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:58:56] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 15:00:04,380 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:00:04] "GET / HTTP/1.1" 200 -
+2025-05-06 15:00:04,402 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:00:04] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 15:00:04,408 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:00:04] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 15:00:09,378 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:00:09] "GET / HTTP/1.1" 200 -
+2025-05-06 15:00:09,393 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:00:09] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 15:00:09,401 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:00:09] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 15:00:14,378 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:00:14] "GET / HTTP/1.1" 200 -
+2025-05-06 15:00:14,394 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:00:14] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 15:00:14,406 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:00:14] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 15:01:09,273 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:01:09] "GET / HTTP/1.1" 200 -
+2025-05-06 15:01:09,286 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:01:09] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 15:01:09,292 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:01:09] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 15:01:14,271 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:01:14] "GET / HTTP/1.1" 200 -
+2025-05-06 15:01:14,286 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:01:14] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 15:01:14,297 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:01:14] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 15:07:18,820 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:07:18] "GET / HTTP/1.1" 200 -
+2025-05-06 15:07:18,833 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:07:18] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 15:07:18,839 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:07:18] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 15:07:23,821 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:07:23] "GET / HTTP/1.1" 200 -
+2025-05-06 15:07:23,840 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:07:23] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 15:07:23,851 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:07:23] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 15:07:28,820 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:07:28] "GET / HTTP/1.1" 200 -
+2025-05-06 15:07:28,838 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:07:28] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 15:07:28,852 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:07:28] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 15:14:08,081 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:14:08] "GET / HTTP/1.1" 200 -
+2025-05-06 15:14:08,098 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:14:08] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 15:14:08,110 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:14:08] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 15:14:13,076 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:14:13] "GET / HTTP/1.1" 200 -
+2025-05-06 15:14:13,092 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:14:13] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 15:14:13,103 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:14:13] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 15:23:32,301 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:23:32] "GET / HTTP/1.1" 200 -
+2025-05-06 15:23:32,317 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:23:32] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 15:23:32,330 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:23:32] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 15:23:37,282 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:23:37] "GET / HTTP/1.1" 200 -
+2025-05-06 15:23:37,295 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:23:37] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 15:23:37,305 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:23:37] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 15:23:42,294 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:23:42] "GET / HTTP/1.1" 200 -
+2025-05-06 15:23:42,311 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:23:42] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 15:23:42,327 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:23:42] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 15:23:47,278 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:23:47] "GET / HTTP/1.1" 200 -
+2025-05-06 15:23:47,284 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:23:47] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 15:23:47,289 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 15:23:47] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 15:57:01,476 - discord.client - ERROR - Attempting a reconnect in 1.48s
+Traceback (most recent call last):
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1345, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 989, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1020, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/resolver.py", line 36, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/base_events.py", line 901, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/socket.py", line 976, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/client.py", line 598, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/gateway.py", line 338, in from_client
+    gateway = gateway or await client.http.get_gateway()
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/http.py", line 2999, in get_gateway
+    data = await self.request(Route("GET", "/gateway"))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/http.py", line 285, in request
+    async with self.__session.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/client.py", line 1423, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/client.py", line 701, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 544, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1050, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1351, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host discord.com:443 ssl:default [nodename nor servname provided, or not known]
+2025-05-06 15:57:02,984 - discord.client - ERROR - Attempting a reconnect in 0.37s
+Traceback (most recent call last):
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1345, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 989, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1020, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/resolver.py", line 36, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/base_events.py", line 901, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/socket.py", line 976, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/client.py", line 598, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/gateway.py", line 338, in from_client
+    gateway = gateway or await client.http.get_gateway()
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/http.py", line 2999, in get_gateway
+    data = await self.request(Route("GET", "/gateway"))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/http.py", line 285, in request
+    async with self.__session.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/client.py", line 1423, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/client.py", line 701, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 544, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1050, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1351, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host discord.com:443 ssl:default [nodename nor servname provided, or not known]
+2025-05-06 15:57:03,359 - discord.client - ERROR - Attempting a reconnect in 4.26s
+Traceback (most recent call last):
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1345, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 989, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1020, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/resolver.py", line 36, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/base_events.py", line 901, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/socket.py", line 976, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/client.py", line 598, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/gateway.py", line 338, in from_client
+    gateway = gateway or await client.http.get_gateway()
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/http.py", line 2999, in get_gateway
+    data = await self.request(Route("GET", "/gateway"))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/http.py", line 285, in request
+    async with self.__session.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/client.py", line 1423, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/client.py", line 701, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 544, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1050, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1351, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host discord.com:443 ssl:default [nodename nor servname provided, or not known]
+2025-05-06 15:58:04,992 - discord.client - ERROR - Attempting a reconnect in 11.64s
+Traceback (most recent call last):
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/client.py", line 601, in connect
+    await self.ws.poll_event()
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/gateway.py", line 605, in poll_event
+    await self.received_message(msg.data)
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/gateway.py", line 498, in received_message
+    await self.send_as_json(beat)
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/gateway.py", line 647, in send_as_json
+    await self.send(utils._to_json(data))
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/gateway.py", line 643, in send
+    await self.socket.send_str(data)
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/client_ws.py", line 243, in send_str
+    await self._writer.send_frame(
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/_websocket/writer.py", line 125, in send_frame
+    raise ClientConnectionResetError("Cannot write to closing transport")
+aiohttp.client_exceptions.ClientConnectionResetError: Cannot write to closing transport
+2025-05-06 15:59:11,963 - discord.client - ERROR - Attempting a reconnect in 0.06s
+Traceback (most recent call last):
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1345, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 989, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1020, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/resolver.py", line 36, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/base_events.py", line 901, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/socket.py", line 976, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/client.py", line 598, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/gateway.py", line 338, in from_client
+    gateway = gateway or await client.http.get_gateway()
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/http.py", line 2999, in get_gateway
+    data = await self.request(Route("GET", "/gateway"))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/http.py", line 285, in request
+    async with self.__session.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/client.py", line 1423, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/client.py", line 701, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 544, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1050, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1351, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host discord.com:443 ssl:default [nodename nor servname provided, or not known]
+2025-05-06 15:59:12,025 - discord.client - ERROR - Attempting a reconnect in 19.62s
+Traceback (most recent call last):
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1345, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 989, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1020, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/resolver.py", line 36, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/base_events.py", line 901, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/socket.py", line 976, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/client.py", line 598, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/gateway.py", line 338, in from_client
+    gateway = gateway or await client.http.get_gateway()
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/http.py", line 2999, in get_gateway
+    data = await self.request(Route("GET", "/gateway"))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/http.py", line 285, in request
+    async with self.__session.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/client.py", line 1423, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/client.py", line 701, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 544, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1050, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1351, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host discord.com:443 ssl:default [nodename nor servname provided, or not known]
+2025-05-06 16:01:17,674 - discord.client - ERROR - Attempting a reconnect in 35.92s
+Traceback (most recent call last):
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/client.py", line 601, in connect
+    await self.ws.poll_event()
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/gateway.py", line 605, in poll_event
+    await self.received_message(msg.data)
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/gateway.py", line 498, in received_message
+    await self.send_as_json(beat)
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/gateway.py", line 647, in send_as_json
+    await self.send(utils._to_json(data))
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/gateway.py", line 643, in send
+    await self.socket.send_str(data)
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/client_ws.py", line 243, in send_str
+    await self._writer.send_frame(
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/_websocket/writer.py", line 125, in send_frame
+    raise ClientConnectionResetError("Cannot write to closing transport")
+aiohttp.client_exceptions.ClientConnectionResetError: Cannot write to closing transport
+2025-05-06 16:11:20,851 - discord.client - ERROR - Attempting a reconnect in 102.49s
+Traceback (most recent call last):
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/client.py", line 601, in connect
+    await self.ws.poll_event()
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/gateway.py", line 605, in poll_event
+    await self.received_message(msg.data)
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/gateway.py", line 498, in received_message
+    await self.send_as_json(beat)
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/gateway.py", line 647, in send_as_json
+    await self.send(utils._to_json(data))
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/gateway.py", line 643, in send
+    await self.socket.send_str(data)
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/client_ws.py", line 243, in send_str
+    await self._writer.send_frame(
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/_websocket/writer.py", line 125, in send_frame
+    raise ClientConnectionResetError("Cannot write to closing transport")
+aiohttp.client_exceptions.ClientConnectionResetError: Cannot write to closing transport
+2025-05-06 16:24:15,395 - asyncio - ERROR - Unclosed connection
+client_connection: Connection<ConnectionKey(host='gateway.discord.gg', port=443, is_ssl=True, ssl=True, proxy=None, proxy_auth=None, proxy_headers_hash=None)>
+2025-05-06 16:25:05,130 - discord.gateway - WARNING - Can't keep up, shard ID None websocket is 10.7s behind.
+2025-05-06 16:30:12,721 - discord.client - ERROR - Attempting a reconnect in 476.34s
+Traceback (most recent call last):
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1345, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 989, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1020, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/resolver.py", line 36, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/base_events.py", line 901, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/socket.py", line 976, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/client.py", line 598, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/gateway.py", line 338, in from_client
+    gateway = gateway or await client.http.get_gateway()
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/http.py", line 2999, in get_gateway
+    data = await self.request(Route("GET", "/gateway"))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/http.py", line 285, in request
+    async with self.__session.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/client.py", line 1423, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/client.py", line 701, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 544, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1050, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1351, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host discord.com:443 ssl:default [nodename nor servname provided, or not known]
+2025-05-06 18:55:37,243 - discord.client - ERROR - Attempting a reconnect in 933.10s
+Traceback (most recent call last):
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1345, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 989, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1020, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/resolver.py", line 36, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/base_events.py", line 901, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/socket.py", line 976, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/client.py", line 598, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/gateway.py", line 338, in from_client
+    gateway = gateway or await client.http.get_gateway()
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/http.py", line 2999, in get_gateway
+    data = await self.request(Route("GET", "/gateway"))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/http.py", line 285, in request
+    async with self.__session.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/client.py", line 1423, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/client.py", line 701, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 544, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1050, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1351, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host discord.com:443 ssl:default [nodename nor servname provided, or not known]
+2025-05-06 20:07:44,116 - discord.client - ERROR - Attempting a reconnect in 799.79s
+Traceback (most recent call last):
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1345, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 989, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1020, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/resolver.py", line 36, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/base_events.py", line 901, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/socket.py", line 976, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/client.py", line 598, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/gateway.py", line 338, in from_client
+    gateway = gateway or await client.http.get_gateway()
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/http.py", line 2999, in get_gateway
+    data = await self.request(Route("GET", "/gateway"))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/http.py", line 285, in request
+    async with self.__session.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/client.py", line 1423, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/client.py", line 701, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 544, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1050, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1351, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host discord.com:443 ssl:default [nodename nor servname provided, or not known]
+2025-05-07 08:12:50,577 - discord.client - ERROR - Attempting a reconnect in 166.96s
+Traceback (most recent call last):
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1345, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 989, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1020, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/resolver.py", line 36, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/base_events.py", line 901, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/socket.py", line 976, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/client.py", line 598, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/gateway.py", line 338, in from_client
+    gateway = gateway or await client.http.get_gateway()
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/http.py", line 2999, in get_gateway
+    data = await self.request(Route("GET", "/gateway"))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/http.py", line 285, in request
+    async with self.__session.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/client.py", line 1423, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/client.py", line 701, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 544, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1050, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1351, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host discord.com:443 ssl:default [nodename nor servname provided, or not known]
+2025-05-07 13:01:19,816 - discord.client - ERROR - Attempting a reconnect in 942.62s
+Traceback (most recent call last):
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1345, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 989, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1020, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/resolver.py", line 36, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/base_events.py", line 901, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/socket.py", line 976, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/client.py", line 598, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/gateway.py", line 338, in from_client
+    gateway = gateway or await client.http.get_gateway()
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/http.py", line 2999, in get_gateway
+    data = await self.request(Route("GET", "/gateway"))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/http.py", line 285, in request
+    async with self.__session.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/client.py", line 1423, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/client.py", line 701, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 544, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1050, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1351, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host discord.com:443 ssl:default [nodename nor servname provided, or not known]

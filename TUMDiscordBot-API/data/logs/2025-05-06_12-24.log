@@ -1,0 +1,19 @@
+2025-05-06 12:24:50,085 - discord_bot - INFO - Bot starting up...
+2025-05-06 12:24:51,026 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 12:24:51] "GET / HTTP/1.1" 200 -
+2025-05-06 12:24:51,043 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 12:24:51] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 12:24:51,055 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 12:24:51] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 400 -
+2025-05-06 12:24:55,092 - discord_bot - INFO - Found Admin role with ID: 1315978990560743434
+2025-05-06 12:24:55,092 - discord_bot - INFO - MockUser initialized with Admin role ID: 1315978990560743434
+2025-05-06 12:24:55,093 - discord_bot - INFO - Mock context initialized with guild: Zorzi's server
+2025-05-06 12:24:55,093 - discord_bot - INFO - Mock context initialized with author: Master M
+2025-05-06 12:24:55,093 - discord_bot - INFO - Bot started successfully in development mode
+2025-05-06 12:24:55,094 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 12:24:55] "POST /api/start-bot?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 12:24:56,031 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 12:24:56] "GET / HTTP/1.1" 200 -
+2025-05-06 12:24:56,050 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 12:24:56] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 12:24:56,065 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 12:24:56] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 12:25:01,026 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 12:25:01] "GET / HTTP/1.1" 200 -
+2025-05-06 12:25:01,041 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 12:25:01] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 12:25:01,053 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 12:25:01] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 12:25:06,027 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 12:25:06] "GET / HTTP/1.1" 200 -
+2025-05-06 12:25:06,040 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 12:25:06] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 12:25:06,053 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 12:25:06] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -

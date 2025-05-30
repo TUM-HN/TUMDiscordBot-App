@@ -1,0 +1,130 @@
+2025-05-09 12:19:00,902 - discord_bot - INFO - Bot starting up...
+2025-05-09 12:19:05,568 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:19:05] "GET / HTTP/1.1" 200 -
+2025-05-09 12:19:05,584 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:19:05] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:19:05,588 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:19:05] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 400 -
+2025-05-09 12:19:05,908 - discord_bot - INFO - Found Admin role with ID: 1315978990560743434
+2025-05-09 12:19:05,909 - discord_bot - INFO - MockUser initialized with Admin role ID: 1315978990560743434
+2025-05-09 12:19:05,909 - discord_bot - INFO - Mock context initialized with guild: Zorzi's server
+2025-05-09 12:19:05,909 - discord_bot - INFO - Mock context initialized with author: Master M
+2025-05-09 12:19:05,910 - discord_bot - INFO - Bot started successfully in development mode
+2025-05-09 12:19:05,911 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:19:05] "POST /api/start-bot?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:36:02,760 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:02] "GET / HTTP/1.1" 200 -
+2025-05-09 12:36:03,119 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:03] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:36:03,467 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:03] "GET / HTTP/1.1" 200 -
+2025-05-09 12:36:03,498 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:03] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:36:03,658 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:03] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:36:03,728 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:03] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:36:08,422 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:08] "GET / HTTP/1.1" 200 -
+2025-05-09 12:36:08,438 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:08] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:36:08,447 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:08] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:36:13,443 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:13] "GET / HTTP/1.1" 200 -
+2025-05-09 12:36:13,451 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:13] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:36:13,455 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:13] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:36:18,418 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:18] "GET / HTTP/1.1" 200 -
+2025-05-09 12:36:18,436 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:18] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:36:18,445 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:18] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:36:23,416 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:23] "GET / HTTP/1.1" 200 -
+2025-05-09 12:36:23,434 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:23] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:36:23,438 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:23] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:36:28,409 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:28] "GET / HTTP/1.1" 200 -
+2025-05-09 12:36:28,422 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:28] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:36:28,439 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:28] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:36:33,410 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:33] "GET / HTTP/1.1" 200 -
+2025-05-09 12:36:33,422 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:33] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:36:33,433 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:33] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:36:38,416 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:38] "GET / HTTP/1.1" 200 -
+2025-05-09 12:36:38,432 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:38] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:36:38,439 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:38] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:36:43,417 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:43] "GET / HTTP/1.1" 200 -
+2025-05-09 12:36:43,432 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:43] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:36:43,439 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:43] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:36:48,412 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:48] "GET / HTTP/1.1" 200 -
+2025-05-09 12:36:48,421 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:48] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:36:48,433 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:48] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:36:53,411 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:53] "GET / HTTP/1.1" 200 -
+2025-05-09 12:36:53,425 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:53] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:36:53,438 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:53] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:36:55,136 - discord.client - ERROR - Attempting a reconnect in 1.44s
+Traceback (most recent call last):
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1345, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 989, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1020, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/resolver.py", line 36, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/base_events.py", line 901, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/socket.py", line 976, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/client.py", line 598, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/gateway.py", line 338, in from_client
+    gateway = gateway or await client.http.get_gateway()
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/http.py", line 2999, in get_gateway
+    data = await self.request(Route("GET", "/gateway"))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/discord/http.py", line 285, in request
+    async with self.__session.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/client.py", line 1423, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/client.py", line 701, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 544, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1050, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/campusheilbronn/PycharmProjects/TUMDiscordBot/.venv/lib/python3.12/site-packages/aiohttp/connector.py", line 1351, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host discord.com:443 ssl:default [nodename nor servname provided, or not known]
+2025-05-09 12:36:58,001 - discord_bot - ERROR - Failed to stop/close loop: Cannot close a running event loop
+2025-05-09 12:36:58,003 - discord_bot - INFO - Bot stopped successfully
+2025-05-09 12:36:58,003 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:58] "POST /api/stop-bot?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:36:58,414 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:58] "GET / HTTP/1.1" 200 -
+2025-05-09 12:36:58,423 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:58] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 12:36:58,433 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:36:58] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 12:36:58,770 - discord_bot - INFO - Bot starting up...
+2025-05-09 12:37:03,413 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:37:03] "GET / HTTP/1.1" 200 -
+2025-05-09 12:37:03,424 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:37:03] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:37:03,433 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:37:03] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 400 -
+2025-05-09 12:37:03,773 - discord_bot - ERROR - Critical error initializing mock context: Bot not connected to any guilds
+2025-05-09 12:37:03,774 - discord_bot - ERROR - Stopping bot due to critical initialization error
+2025-05-09 12:37:03,775 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:37:03] "[35m[1mPOST /api/start-bot?api_key=025002 HTTP/1.1[0m" 500 -
+2025-05-09 12:37:08,127 - discord_bot - INFO - Bot starting up...
+2025-05-09 12:37:08,413 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:37:08] "GET / HTTP/1.1" 200 -
+2025-05-09 12:37:08,439 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:37:08] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 12:37:08,448 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:37:08] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 400 -
+2025-05-09 12:37:13,132 - discord_bot - ERROR - Critical error initializing mock context: Bot not connected to any guilds
+2025-05-09 12:37:13,133 - discord_bot - ERROR - Stopping bot due to critical initialization error
+2025-05-09 12:37:13,134 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:37:13] "[35m[1mPOST /api/start-bot?api_key=025002 HTTP/1.1[0m" 500 -
+2025-05-09 12:37:13,414 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:37:13] "GET / HTTP/1.1" 200 -
+2025-05-09 12:37:13,430 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:37:13] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 12:37:13,436 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:37:13] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 12:37:18,410 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:37:18] "GET / HTTP/1.1" 200 -
+2025-05-09 12:37:18,419 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:37:18] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 12:37:18,437 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 12:37:18] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -

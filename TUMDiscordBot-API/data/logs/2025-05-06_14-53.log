@@ -1,0 +1,100 @@
+2025-05-06 14:53:25,459 - discord_bot - INFO - Bot starting up...
+2025-05-06 14:53:26,351 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:53:26] "GET / HTTP/1.1" 200 -
+2025-05-06 14:53:26,366 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:53:26] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:53:26,374 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:53:26] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 400 -
+2025-05-06 14:53:30,465 - discord_bot - INFO - Found Admin role with ID: 1315978990560743434
+2025-05-06 14:53:30,466 - discord_bot - INFO - MockUser initialized with Admin role ID: 1315978990560743434
+2025-05-06 14:53:30,466 - discord_bot - INFO - Mock context initialized with guild: Zorzi's server
+2025-05-06 14:53:30,466 - discord_bot - INFO - Mock context initialized with author: Master M
+2025-05-06 14:53:30,466 - discord_bot - INFO - Bot started successfully in development mode
+2025-05-06 14:53:30,466 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:53:30] "POST /api/start-bot?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:53:31,354 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:53:31] "GET / HTTP/1.1" 200 -
+2025-05-06 14:53:31,369 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:53:31] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:53:31,380 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:53:31] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:53:31,621 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:53:31] "POST /api/stop-bot?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 14:53:32,549 - discord_bot - INFO - Bot starting up...
+2025-05-06 14:53:32,550 - discord_bot - ERROR - Bot failed to start: Event loop is closed
+2025-05-06 14:53:36,356 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:53:36] "GET / HTTP/1.1" 200 -
+2025-05-06 14:53:36,371 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:53:36] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:53:36,380 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:53:36] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:53:37,556 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:53:37] "[35m[1mPOST /api/start-bot?api_key=025002 HTTP/1.1[0m" 500 -
+2025-05-06 14:53:41,358 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:53:41] "GET / HTTP/1.1" 200 -
+2025-05-06 14:53:41,368 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:53:41] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:53:41,376 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:53:41] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:53:46,349 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:53:46] "GET / HTTP/1.1" 200 -
+2025-05-06 14:53:46,360 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:53:46] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:53:46,367 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:53:46] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:53:51,345 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:53:51] "GET / HTTP/1.1" 200 -
+2025-05-06 14:53:51,356 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:53:51] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:53:51,363 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:53:51] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:53:56,351 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:53:56] "GET / HTTP/1.1" 200 -
+2025-05-06 14:53:56,365 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:53:56] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:53:56,374 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:53:56] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:54:01,349 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:01] "GET / HTTP/1.1" 200 -
+2025-05-06 14:54:01,358 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:01] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:54:01,363 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:01] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:54:06,348 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:06] "GET / HTTP/1.1" 200 -
+2025-05-06 14:54:06,367 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:06] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:54:06,380 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:06] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:54:11,361 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:11] "GET / HTTP/1.1" 200 -
+2025-05-06 14:54:11,376 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:11] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:54:11,386 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:11] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:54:16,348 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:16] "GET / HTTP/1.1" 200 -
+2025-05-06 14:54:16,362 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:16] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:54:16,370 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:16] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:54:21,349 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:21] "GET / HTTP/1.1" 200 -
+2025-05-06 14:54:21,363 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:21] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:54:21,372 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:21] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:54:26,347 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:26] "GET / HTTP/1.1" 200 -
+2025-05-06 14:54:26,362 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:26] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:54:26,370 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:26] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:54:31,349 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:31] "GET / HTTP/1.1" 200 -
+2025-05-06 14:54:31,364 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:31] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:54:31,375 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:31] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:54:36,346 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:36] "GET / HTTP/1.1" 200 -
+2025-05-06 14:54:36,357 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:36] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:54:36,364 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:36] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:54:41,350 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:41] "GET / HTTP/1.1" 200 -
+2025-05-06 14:54:41,362 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:41] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:54:41,371 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:41] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:54:46,349 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:46] "GET / HTTP/1.1" 200 -
+2025-05-06 14:54:46,359 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:46] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:54:46,369 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:46] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:54:51,355 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:51] "GET / HTTP/1.1" 200 -
+2025-05-06 14:54:51,363 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:51] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:54:51,367 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:51] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:54:56,349 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:56] "GET / HTTP/1.1" 200 -
+2025-05-06 14:54:56,362 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:56] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:54:56,368 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:54:56] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:55:01,352 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:01] "GET / HTTP/1.1" 200 -
+2025-05-06 14:55:01,365 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:01] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:55:01,375 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:01] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:55:06,358 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:06] "GET / HTTP/1.1" 200 -
+2025-05-06 14:55:06,368 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:06] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:55:06,376 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:06] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:55:11,352 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:11] "GET / HTTP/1.1" 200 -
+2025-05-06 14:55:11,367 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:11] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:55:11,375 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:11] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:55:16,346 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:16] "GET / HTTP/1.1" 200 -
+2025-05-06 14:55:16,359 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:16] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:55:16,366 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:16] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:55:21,353 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:21] "GET / HTTP/1.1" 200 -
+2025-05-06 14:55:21,377 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:21] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:55:21,396 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:21] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:55:24,617 - discord_bot - INFO - Bot starting up...
+2025-05-06 14:55:24,621 - discord_bot - ERROR - Bot failed to start: Event loop is closed
+2025-05-06 14:55:26,349 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:26] "GET / HTTP/1.1" 200 -
+2025-05-06 14:55:26,366 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:26] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:55:26,376 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:26] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:55:29,625 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:29] "[35m[1mPOST /api/start-bot?api_key=025002 HTTP/1.1[0m" 500 -
+2025-05-06 14:55:31,349 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:31] "GET / HTTP/1.1" 200 -
+2025-05-06 14:55:31,361 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:31] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:55:31,370 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:31] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:55:36,341 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:36] "GET / HTTP/1.1" 200 -
+2025-05-06 14:55:36,348 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:36] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-06 14:55:36,354 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 14:55:36] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-06 14:55:37,769 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x106fe4170>
+2025-05-06 14:55:37,770 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x107768ef0>, 79771.719529083)])']
+connector: <aiohttp.connector.TCPConnector object at 0x10775eea0>

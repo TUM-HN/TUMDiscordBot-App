@@ -1,0 +1,7 @@
+py-cord==2.5.0
+matplotlib~=3.9.3
+numpy~=2.2.0
+Flask~=3.1.0
+requests~=2.31.0
+pandas~=2.2.0
+python-dotenv~=1.0.0

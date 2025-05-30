@@ -1,0 +1,103 @@
+2025-05-09 14:48:00,070 - discord_bot - INFO - Bot starting up...
+2025-05-09 14:48:01,901 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:01] "GET / HTTP/1.1" 200 -
+2025-05-09 14:48:01,915 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:01] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 14:48:01,925 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:01] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 400 -
+2025-05-09 14:48:05,079 - discord_bot - ERROR - Critical error initializing mock context: Bot not connected to any guilds
+2025-05-09 14:48:05,079 - discord_bot - ERROR - Stopping bot due to critical initialization error
+2025-05-09 14:48:05,080 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:05] "[35m[1mPOST /api/start-bot?api_key=025002 HTTP/1.1[0m" 500 -
+2025-05-09 14:48:06,905 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:06] "GET / HTTP/1.1" 200 -
+2025-05-09 14:48:06,920 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:06] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 14:48:06,933 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:06] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 14:48:11,909 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:11] "GET / HTTP/1.1" 200 -
+2025-05-09 14:48:11,926 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:11] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 14:48:11,937 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:11] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 14:48:13,615 - discord_bot - INFO - Bot starting up...
+2025-05-09 14:48:16,905 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:16] "GET / HTTP/1.1" 200 -
+2025-05-09 14:48:16,932 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:16] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 14:48:16,940 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:16] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 400 -
+2025-05-09 14:48:18,621 - discord_bot - ERROR - Critical error initializing mock context: Bot not connected to any guilds
+2025-05-09 14:48:18,621 - discord_bot - ERROR - Stopping bot due to critical initialization error
+2025-05-09 14:48:18,623 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:18] "[35m[1mPOST /api/start-bot?api_key=025002 HTTP/1.1[0m" 500 -
+2025-05-09 14:48:21,905 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:21] "GET / HTTP/1.1" 200 -
+2025-05-09 14:48:21,926 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:21] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 14:48:21,939 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:21] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 14:48:26,909 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:26] "GET / HTTP/1.1" 200 -
+2025-05-09 14:48:26,923 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:26] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 14:48:26,936 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:26] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 14:48:31,900 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:31] "GET / HTTP/1.1" 200 -
+2025-05-09 14:48:31,911 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:31] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 14:48:31,921 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:31] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 14:48:36,903 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:36] "GET / HTTP/1.1" 200 -
+2025-05-09 14:48:36,914 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:36] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 14:48:36,921 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:36] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 14:48:41,898 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:41] "GET / HTTP/1.1" 200 -
+2025-05-09 14:48:41,911 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:41] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 14:48:41,922 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:41] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 14:48:46,901 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:46] "GET / HTTP/1.1" 200 -
+2025-05-09 14:48:46,916 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:46] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 14:48:46,926 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:46] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 14:48:51,906 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:51] "GET / HTTP/1.1" 200 -
+2025-05-09 14:48:51,921 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:51] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 14:48:51,952 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:51] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 14:48:54,182 - discord_bot - INFO - Bot starting up...
+2025-05-09 14:48:56,904 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:56] "GET / HTTP/1.1" 200 -
+2025-05-09 14:48:56,922 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:56] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 14:48:56,935 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:56] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 400 -
+2025-05-09 14:48:59,189 - discord_bot - ERROR - Critical error initializing mock context: Bot not connected to any guilds
+2025-05-09 14:48:59,190 - discord_bot - ERROR - Stopping bot due to critical initialization error
+2025-05-09 14:48:59,192 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:48:59] "[35m[1mPOST /api/start-bot?api_key=025002 HTTP/1.1[0m" 500 -
+2025-05-09 14:49:01,903 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:01] "GET / HTTP/1.1" 200 -
+2025-05-09 14:49:01,916 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:01] "[35m[1mGET /api/bot-status?api_key=025002 HTTP/1.1[0m" 503 -
+2025-05-09 14:49:01,922 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:01] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 409 -
+2025-05-09 14:49:06,751 - discord_bot - INFO - Bot starting up...
+2025-05-09 14:49:06,903 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:06] "GET / HTTP/1.1" 200 -
+2025-05-09 14:49:06,915 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x1147f2c60>
+2025-05-09 14:49:06,915 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x1147c3650>, 173228.28555025)])']
+connector: <aiohttp.connector.TCPConnector object at 0x1147f0080>
+2025-05-09 14:49:06,925 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:06] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 14:49:06,936 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:06] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 400 -
+2025-05-09 14:49:11,756 - discord_bot - INFO - Found Admin role with ID: 1315978990560743434
+2025-05-09 14:49:11,757 - discord_bot - INFO - MockUser initialized with Admin role ID: 1315978990560743434
+2025-05-09 14:49:11,757 - discord_bot - INFO - Mock context initialized with guild: Zorzi's server
+2025-05-09 14:49:11,757 - discord_bot - INFO - Mock context initialized with author: Master M
+2025-05-09 14:49:11,757 - discord_bot - INFO - Bot started successfully in development mode
+2025-05-09 14:49:11,759 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:11] "POST /api/start-bot?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 14:49:11,905 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:11] "GET / HTTP/1.1" 200 -
+2025-05-09 14:49:11,926 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:11] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 14:49:11,943 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:11] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 14:49:16,906 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:16] "GET / HTTP/1.1" 200 -
+2025-05-09 14:49:16,924 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:16] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 14:49:16,937 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:16] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 14:49:21,905 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:21] "GET / HTTP/1.1" 200 -
+2025-05-09 14:49:21,919 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:21] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 14:49:21,929 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:21] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 14:49:26,904 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:26] "GET / HTTP/1.1" 200 -
+2025-05-09 14:49:26,922 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:26] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 14:49:26,935 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:26] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 14:49:28,185 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:28] "GET /api/members?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 14:49:31,196 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:31] "GET / HTTP/1.1" 200 -
+2025-05-09 14:49:31,209 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:31] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 14:49:31,219 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:31] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 14:49:31,909 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:31] "GET / HTTP/1.1" 200 -
+2025-05-09 14:49:31,924 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:31] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 14:49:31,936 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:31] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 14:49:32,368 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:32] "GET / HTTP/1.1" 200 -
+2025-05-09 14:49:32,380 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:32] "GET /api/settings?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 14:49:36,906 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:36] "GET / HTTP/1.1" 200 -
+2025-05-09 14:49:36,914 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:36] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 14:49:36,919 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:36] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 14:49:41,901 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:41] "GET / HTTP/1.1" 200 -
+2025-05-09 14:49:41,910 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:41] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 14:49:41,920 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 14:49:41] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-09 14:49:43,412 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x113a9c4d0>
+2025-05-09 14:49:43,412 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x113d25610>, 173174.110798083)])']
+connector: <aiohttp.connector.TCPConnector object at 0x113dadfa0>
+2025-05-09 14:49:43,412 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x113dc95e0>
+2025-05-09 14:49:43,412 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x1147c2090>, 173187.705587083)])']
+connector: <aiohttp.connector.TCPConnector object at 0x113dc9610>

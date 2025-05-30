@@ -1,0 +1,37 @@
+2025-04-28 11:54:08,967 - discord_bot - INFO - Bot starting up...
+2025-04-28 11:54:09,796 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 11:54:09] "[31m[1mPOST /api/start-bot?api_key=025002 HTTP/1.1[0m" 409 -
+2025-04-28 11:54:11,013 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 11:54:11] "GET / HTTP/1.1" 200 -
+2025-04-28 11:54:11,020 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 11:54:11] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-04-28 11:54:11,027 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 11:54:11] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 400 -
+2025-04-28 11:54:13,973 - discord_bot - INFO - Mock context initialized with guild: Zorzi's server
+2025-04-28 11:54:13,973 - discord_bot - INFO - Bot started successfully
+2025-04-28 11:54:13,973 - discord_bot - INFO - Mock context initialized with author: Master M
+2025-04-28 11:54:13,974 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 11:54:13] "POST /api/start-bot?api_key=025002 HTTP/1.1" 200 -
+2025-04-28 11:54:16,011 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 11:54:16] "GET / HTTP/1.1" 200 -
+2025-04-28 11:54:16,022 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 11:54:16] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-04-28 11:54:16,029 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 11:54:16] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-04-28 11:54:21,018 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 11:54:21] "GET / HTTP/1.1" 200 -
+2025-04-28 11:54:21,030 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 11:54:21] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-04-28 11:54:21,045 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 11:54:21] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-04-28 11:54:21,899 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 11:54:21] "POST /api/tutor-session-feedback?group_id=g1&api_key=025002&channel_id=1315956638892425248&duration=5 HTTP/1.1" 200 -
+2025-04-28 11:54:26,016 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 11:54:26] "GET / HTTP/1.1" 200 -
+2025-04-28 11:54:26,026 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 11:54:26] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-04-28 11:54:26,039 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 11:54:26] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-04-28 11:54:30,298 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='discord-ui-view-timeout-76c822dcaf91078013855b88ef5fd26a' coro=<TutorSessionView.on_timeout() done, defined at /Users/campusheilbronn/PycharmProjects/Bachelor Thesis/Discord-Bot-Scripts/bot/ui/view.py:111> exception=FileNotFoundError(2, 'No such file or directory')>
+Traceback (most recent call last):
+  File "/Users/campusheilbronn/PycharmProjects/Bachelor Thesis/Discord-Bot-Scripts/bot/ui/view.py", line 119, in on_timeout
+    save_survey_entry_to_csv(self.path, entry)
+  File "/Users/campusheilbronn/PycharmProjects/Bachelor Thesis/Discord-Bot-Scripts/utility/function_utils.py", line 165, in save_survey_entry_to_csv
+    open(file=path, mode="a").close()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: './data/tutor_session_feedback/g1_2025-04-28.csv'
+2025-04-28 11:54:31,010 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 11:54:31] "GET / HTTP/1.1" 200 -
+2025-04-28 11:54:31,018 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 11:54:31] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-04-28 11:54:31,030 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 11:54:31] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-04-28 11:54:36,015 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 11:54:36] "GET / HTTP/1.1" 200 -
+2025-04-28 11:54:36,025 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 11:54:36] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-04-28 11:54:36,035 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 11:54:36] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-04-28 11:54:41,013 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 11:54:41] "GET / HTTP/1.1" 200 -
+2025-04-28 11:54:41,018 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 11:54:41] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-04-28 11:54:41,025 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 11:54:41] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -

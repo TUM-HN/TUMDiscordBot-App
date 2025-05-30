@@ -1,0 +1,53 @@
+2025-05-06 00:19:36,851 - discord_bot - INFO - Bot starting up...
+2025-05-06 00:19:39,387 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:19:39] "GET / HTTP/1.1" 200 -
+2025-05-06 00:19:39,400 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:19:39] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:19:39,408 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:19:39] "[31m[1mGET /api/member-count?api_key=025002 HTTP/1.1[0m" 400 -
+2025-05-06 00:19:41,857 - discord_bot - INFO - Mock context initialized with guild: Zorzi's server
+2025-05-06 00:19:41,857 - discord_bot - INFO - Bot started successfully
+2025-05-06 00:19:41,858 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:19:41] "POST /api/start-bot?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:19:44,392 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:19:44] "GET / HTTP/1.1" 200 -
+2025-05-06 00:19:44,402 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:19:44] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:19:44,412 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:19:44] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:19:49,384 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:19:49] "GET / HTTP/1.1" 200 -
+2025-05-06 00:19:49,394 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:19:49] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:19:49,401 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:19:49] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:19:54,396 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:19:54] "GET / HTTP/1.1" 200 -
+2025-05-06 00:19:54,406 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:19:54] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:19:54,415 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:19:54] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:19:59,387 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:19:59] "GET / HTTP/1.1" 200 -
+2025-05-06 00:19:59,405 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:19:59] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:19:59,418 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:19:59] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:20:04,386 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:04] "GET / HTTP/1.1" 200 -
+2025-05-06 00:20:04,400 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:04] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:20:04,410 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:04] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:20:09,387 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:09] "GET / HTTP/1.1" 200 -
+2025-05-06 00:20:09,403 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:09] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:20:09,414 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:09] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:20:14,383 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:14] "GET / HTTP/1.1" 200 -
+2025-05-06 00:20:14,391 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:14] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:20:14,396 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:14] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:20:19,386 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:19] "GET / HTTP/1.1" 200 -
+2025-05-06 00:20:19,402 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:19] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:20:19,412 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:19] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:20:24,388 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:24] "GET / HTTP/1.1" 200 -
+2025-05-06 00:20:24,402 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:24] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:20:24,412 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:24] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:20:29,385 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:29] "GET / HTTP/1.1" 200 -
+2025-05-06 00:20:29,394 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:29] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:20:29,402 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:29] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:20:34,388 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:34] "GET / HTTP/1.1" 200 -
+2025-05-06 00:20:34,402 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:34] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:20:34,412 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:34] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:20:39,391 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:39] "GET / HTTP/1.1" 200 -
+2025-05-06 00:20:39,398 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:39] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:20:39,403 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:39] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:20:44,386 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:44] "GET / HTTP/1.1" 200 -
+2025-05-06 00:20:44,400 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:44] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:20:44,411 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:44] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:20:49,384 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:49] "GET / HTTP/1.1" 200 -
+2025-05-06 00:20:49,399 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:49] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:20:49,407 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:49] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:20:54,391 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:54] "GET / HTTP/1.1" 200 -
+2025-05-06 00:20:54,399 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:54] "GET /api/bot-status?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:20:54,406 - werkzeug - INFO - 127.0.0.1 - - [06/May/2025 00:20:54] "GET /api/member-count?api_key=025002 HTTP/1.1" 200 -
+2025-05-06 00:30:25,089 - werkzeug - INFO -  * Detected change in '/Users/campusheilbronn/PycharmProjects/Bachelor Thesis/Discord-Bot-Scripts/shared/config.py', reloading
